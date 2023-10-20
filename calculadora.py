@@ -53,5 +53,4 @@ def calculadora():
         print("Resultado: ", resultado)
 
 
-if __name__ == "_main_":
-    calculadora()
+calculadora()
