@@ -1,7 +1,9 @@
 # Función para realizar una suma
 def suma(a, b):
     return a + b
-
+# Función para realizar una resta
+def resta(a, b):
+    return a - b
 
 # Función principal para la calculadora
 def calculadora():
